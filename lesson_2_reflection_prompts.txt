@@ -26,6 +26,7 @@ We can see the changes made in the file in the staging area with respect to the 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When we need to get out of the comfort zone and make some risk in changing codes then the branches would help. We can take the same version of code making master code intact.  It would make the flow of the master code and wouldnot risk the changes that we want to make in the codes
 
 
 
