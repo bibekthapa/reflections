@@ -1,0 +1,80 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+ 
+
+  // Fill in your answer here
+
+It showed the difference between the two files while bug was introduced and while bug was not introduced.So it will show the changes that were made during the process.
+
+
+It showed in how many lines the difference are.If there are 
+
+
+
+How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+  
+
+  
+Having easy access to the entire history helps to know the changes that are made.It helps to know the bugs because of the corrections in the later versions.It helps to ease the programming approach by seeing the history and also the progress of programming.
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Saving automatically will not help for the typos.  It will save each and every parts but may or maynot save crucial parts.So finding bugs will be difficult.
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+
+
+    Fill in your answer here
+Maybe Git is for the purpose of the programming, where multiple files are needed.But Google docs donot need to save multiple files because there is no need of saving multiple files and they will not be interrelated
+
+
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+ 
+
+
+   Fill in your answer here
+Git log shows the history of commits.Git diff allows how the current version is different from the previous versions.What lines are added , what lines are removed . it allows us to see this.
+
+
+
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+  
+
+  //Fill in your answer here
+It allows be to test other new ideas without worrying that i will mess up the program. It gives me confidence to try new things without worrying what will happen next. I can always move to the bug free version of the program.
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ 
+I want to try git for the purpose of my programming in Adnroid . I want to use it in every programming approaches. 
+
+
+
+
+  Fill in your answer here
