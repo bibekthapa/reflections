@@ -6,6 +6,11 @@ When we initialize repository it makes the git version. After doing it we will b
 How is the staging area different from the working directory and the repository?
 
 What value do you think it offers?
+Staging area is different from the working directory because it is place where the git is added for the process of commit.It is the bridge between the working directory and commiting to the repository. It gives a chance to whether to add to the repositoy or not two times. If really commit is needed than it is added to the repository by commiting. 
+
+It is different from the repository because it is the place where git has not been commited yet.
+
+it is different from the working directory because it shows the changes is valid and will be further processed for commit.
 
 
 
@@ -13,6 +18,8 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+We can see the changes made in the file in the staging area with respect to the working directory. We can see whether the changes are logical or not and further process for commit which is really helpful.
 
 
 
