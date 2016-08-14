@@ -39,6 +39,7 @@ Diagrams help us visualize the flow of the commits. It shows how the program is 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging of two branch together helped us to put the remote changes done by the user without disturbing the flow of the program.We represent it in the diagram to show that it is accessible or not. This is done to see the parents.
 
 
 
