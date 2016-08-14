@@ -32,6 +32,7 @@ When we need to get out of the comfort zone and make some risk in changing codes
 
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help us visualize the flow of the commits. It shows how the program is structured. it shows whether the head could be accessed or not. 
 
 
 
